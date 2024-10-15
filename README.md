@@ -6,6 +6,8 @@ Afzal, S., Asim, M., Javed, A. R., Beg, M. O., & Baker, T. (2021). Urldeepdetect
 
 https://link.springer.com/article/10.1007/s10922-021-09587-8
 
-Afzal, S., Asim, M., Beg, M. O., Baker, T., Awad, A. I., & Shamim, N. (2024) Context-Aware Embeddings for Robust Multiclass Fraudulent URL Detection in Online Social Platforms (Accepted)
+
+
+Afzal, S., Asim, M., Beg, M. O., Baker, T., Awad, A. I., & Shamim, N. (2024). Context-aware embeddings for robust multiclass fraudulent URL detection in online social platforms. Computers and Electrical Engineering, 119, 109494.
 
 https://www.sciencedirect.com/science/article/pii/S004579062400421X?via%3Dihub
